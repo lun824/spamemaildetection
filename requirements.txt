@@ -3,5 +3,5 @@ scikit-learn
 pandas
 joblib
 numpy
-openpyx1
+openpyxl
 matplotlib
